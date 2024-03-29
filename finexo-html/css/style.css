@@ -29,7 +29,9 @@ body {
 .layout_padding-bottom {
   padding-bottom: 90px;
 }
-
+.h{
+  color: white;
+}
 .heading_container {
   display: -webkit-box;
   display: -ms-flexbox;
